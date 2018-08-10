@@ -1,0 +1,20 @@
+[
+  {
+    "StockCertid": 0,
+    "StockSymbol":"MSFT",
+    "NoofStocks":100,
+    "OrderType" :"Sell",
+    "Amount": "10000",
+    "TradeAccount":1234
+
+  },
+  {
+    "StockCertid": 0,
+    "StockSymbol":"MSFT",
+    "NoofStocks":100,
+    "OrderType" :"Buy",
+    "Amount": "10000",
+    "TradeAccount":4567
+  }
+  
+]
